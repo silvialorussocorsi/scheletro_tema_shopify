@@ -1,0 +1,6 @@
+development:
+  password: 5b62019db3143d56f55c0faa66cead68
+  theme_id: "157485573"
+  store: defguide.myshopify.com
+  ignore_files:
+  - "*___jb*"
